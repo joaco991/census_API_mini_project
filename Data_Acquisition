@@ -1,4 +1,3 @@
-# In this file I will display my learning experience in Data Acquisition Methods.
 
 #First, API requiests from Python into JSON
 #Then, this JSON (list of lists) will be converted into a CSV file
