@@ -19,6 +19,8 @@ Tech stack
   pandas
 
 How to run
-  Create and activate a virtual environment (optional but recommended).
   Install dependencies: pip install -r requirements.txt
   Run the notebook or script in this folder.
+
+Output
+  CSV file
